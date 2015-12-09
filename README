@@ -1,0 +1,14 @@
+CS3790
+Zachary Lapointe
+Lab assignment 4
+Memory simulator
+Memory is implemented as a linked list
+The driver.cpp file is just an example used to manipulate the memory class and use the methods/functions.
+DOESN’T WORK, code looks fine but there is a dangling pointer somewhere and I couldn’t be bothered to find it.
+
+To compile type:
+make
+
+To run type:
+./DRIVER
+
